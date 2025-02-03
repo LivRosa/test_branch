@@ -1,0 +1,7 @@
+.github-button{
+    display: flex;
+    color:blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: 600;
+}
